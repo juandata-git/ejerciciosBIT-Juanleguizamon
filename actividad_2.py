@@ -29,3 +29,6 @@ while i < len(nombres):
     print(nombre)
 
     ##pendiente de realizar !!!
+
+    edades = pd.Series([25, 30, 35, 40], name="Edades")
+print("Serie de Edades:")
